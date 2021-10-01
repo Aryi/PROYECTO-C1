@@ -1,5 +1,12 @@
 body{
-    background-color: cadetblue;
+    background-color: black;
     text-align: center;
     color: red;
+}
+
+#contenido{
+    max-width: 50%;
+    align-content: center;
+    border: 2px;
+    background-color: cadetblue;
 }
